@@ -1,10 +1,11 @@
-# Password Generator
+# 🔐 Password Generator
 
 A simple and secure password generator GUI application built with Python and tkinter.
 
 ## Overview
 
 This application allows users to generate strong passwords with customizable options for length and character sets (uppercase letters, lowercase letters, digits, and symbols). It features a user-friendly interface and includes functionality to copy generated passwords directly to the clipboard.
+
 ## Features ✨
 
 - Generate passwords of varying lengths (minimum 1 character).
