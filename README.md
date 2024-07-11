@@ -12,15 +12,11 @@ This application allows users to generate strong passwords with customizable opt
 - Copy generated passwords to the clipboard with a single click.
 - Visual feedback with a rotating button image upon password generation.
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 
 ## Screenshots  📸
-
-![Password Generator Screenshot](./Screenshot/pass.gif)
+<p align='center'>
+   <img src ="./Screenshot/pass.gif" alt='Demo'>
+</p>
 
 ## Installation 🛠️
 
@@ -32,14 +28,14 @@ This application allows users to generate strong passwords with customizable opt
 
 2. **Install dependencies:**
 
-```bash
-pip install customtkinter
-```
+   ```bash
+   pip install customtkinter
+   ```
 3. **Run the application:**
 
-```bash
-python password.py
-```
+   ```bash
+   python password.py
+   ```
 
 ## Usage 🚀
 
@@ -47,9 +43,12 @@ python password.py
 - Check the character set options you want to include.
 - Click the "Generate" button to create a password.
 - Click the "Copy" button to copy the generated password to your clipboard.
+
+  
 ## Contributing 🤝
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
